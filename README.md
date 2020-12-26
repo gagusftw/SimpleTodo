@@ -24,9 +24,9 @@ No additional features have been implemented, due to time constraints.
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='SimpleTodo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created using EZGIF video-to-GIF service. Original video originally recorded on Samsung Galaxy A50 (personal device). Long taps are used to delete items in this case.
 
 ## Notes
 
